@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #1B244A;
+}
+
+h3 {
+    color:white;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    padding-top:14px;
+    font-family: "Cursed Timer Ulil";
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    border-style: solid;
+    border-radius: 4px;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    background: none;
+    cursor: pointer;
+    color:lightblue;
+    font-family: "Cursed Timer Ulil";
+    border-color: lightblue;
+}
+
+.reset {
+    background-color: lightblue;
+    color: black;
+    padding:10px;
+    font-weight: bold;
+    border-width: 1px;
+    border-color: blue;
+}
